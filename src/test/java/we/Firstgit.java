@@ -7,5 +7,6 @@ public class Firstgit {
 public void git()
 {
 	System.out.println("hi");
+	System.out.println("hi2");
 }
 }
